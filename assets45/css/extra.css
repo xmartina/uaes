@@ -1,0 +1,28 @@
+.bg-theme-color-2, .line-bottom:after, .line-bottom-center:after {
+    background: #192F59 !important;
+}
+.font-12 {
+    font-size: 12px !important;
+    font-family: "Comfortaa", sans-serif;
+}
+.bg-dark{
+    background-color: #171717;
+}
+section > .container.re-2, section > .container-fluid {
+    padding-top: 23px;
+    padding-bottom: 3px;
+}
+.bg-extra-dark {
+    background-color: #091F2C;
+}
+h4.icon-box-title{
+    color: #429EDB;
+}
+.icon-box.p-15.mb-30{
+    height: 110px;
+    display: flex;
+    align-items: center;
+}
+.block-wrapper{
+    background-color: #F7F5F2;
+}
